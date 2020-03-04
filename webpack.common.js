@@ -43,7 +43,8 @@ module.exports = {
         new HtmlWebpackPlugin({
             title: 'Training tool',
             template: './webpack_template/index.ejs',
-            inject: '#root'
+            inject: '#root',
+            favicon: "./img/favicon.ico"
         })
     ]
 }

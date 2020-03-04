@@ -7,7 +7,7 @@ class ExamplePage extends Component {
             <div className='container'>
                 <div className='row'>
                     <div className='col'>
-                        <h1>Example page</h1>
+                        <h1>Example page 2</h1>
                     </div>
                 </div>
             </div>);
